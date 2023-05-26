@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "JSXSharp.Core", "JSXSharp.Core\JSXSharp.Core.fsproj", "{95997BFD-2EE2-4F74-892A-87A438196C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95997BFD-2EE2-4F74-892A-87A438196C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95997BFD-2EE2-4F74-892A-87A438196C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95997BFD-2EE2-4F74-892A-87A438196C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95997BFD-2EE2-4F74-892A-87A438196C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E8C5326-1397-4F79-93D9-27F008D8B553}
+	EndGlobalSection
+EndGlobal
